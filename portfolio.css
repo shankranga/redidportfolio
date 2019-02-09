@@ -1,0 +1,37 @@
+body {
+  background-image: url("background.jpg");
+}
+#mainfont {
+  font-family: "Bangers", cursive;
+}
+#homefont {
+  font-family: "Bangers", cursive;
+}
+#contactfont {
+  font-family: "Bangers", cursive;
+}
+#portfoliofont {
+  font-family: "Bangers", cursive;
+}
+.nodepic {
+  height: 200px;
+}
+.javascriptpic {
+  height: 200px;
+}
+.csspic {
+  height: 200px;
+}
+.carousel-item {
+  text-align: center !important;
+}
+
+.display-4 {
+  font-family: "Shadows Into Light Two", cursive;
+}
+.lead {
+  font-family: "Shadows Into Light Two", cursive;
+}
+.bio {
+  font-family: "Bangers", cursive;
+}
